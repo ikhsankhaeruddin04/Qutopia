@@ -1,0 +1,84 @@
+{
+    "Easy": [
+      {
+        "question": "What is the opposite of 'hot'?",
+        "options": ["Cold", "Warm", "Heat", "Boil"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What color is the sky on a clear day?",
+        "options": ["Blue", "Green", "Red", "Yellow"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which one is a fruit?",
+        "options": ["Carrot", "Potato", "Apple", "Onion"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "How many legs does a cat have?",
+        "options": ["Two", "Three", "Four", "Five"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which one is used to write?",
+        "options": ["Pencil", "Eraser", "Ruler", "Bag"],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "London", "Paris", "Rome"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which is a synonym of 'happy'?",
+        "options": ["Angry", "Sad", "Joyful", "Scared"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "How many days are in a year?",
+        "options": ["365", "360", "366", "350"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which one is a verb?",
+        "options": ["Running", "Fast", "Blue", "Nice"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is a baby dog called?",
+        "options": ["Cub", "Kitten", "Puppy", "Chick"],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Which word means 'to look quickly'?",
+        "options": ["Glance", "Stare", "Gaze", "Observe"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which is an antonym of 'ancient'?",
+        "options": ["Old", "Past", "Modern", "History"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the plural of 'mouse'?",
+        "options": ["Mouses", "Mouse", "Mice", "Mices"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which sentence is in past tense?",
+        "options": ["He runs fast", "She will go", "They played", "I am walking"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Mars", "Jupiter"],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+  

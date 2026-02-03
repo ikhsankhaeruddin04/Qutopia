@@ -1,0 +1,89 @@
+{
+    "Easy": [
+      {
+        "question": "What is the first month of the year?",
+        "options": ["March", "April", "January", "June"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which one is a vehicle?",
+        "options": ["Table", "Car", "Fan", "Shoe"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which one is used to drink?",
+        "options": ["Plate", "Cup", "Fork", "Book"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How many legs does a spider have?",
+        "options": ["4", "6", "8", "10"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which of these is a color?",
+        "options": ["Run", "Sleep", "Blue", "Eat"],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What do bees produce?",
+        "options": ["Milk", "Honey", "Water", "Juice"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the plural of 'mouse'?",
+        "options": ["Mouses", "Mice", "Mouse", "Mices"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which one is not a vowel?",
+        "options": ["A", "E", "I", "Y"],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "Which word is a verb?",
+        "options": ["Happy", "Eat", "Big", "Red"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What comes after Tuesday?",
+        "options": ["Monday", "Wednesday", "Friday", "Sunday"],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is the antonym of 'noisy'?",
+        "options": ["Loud", "Silent", "Angry", "Quick"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which word is a preposition?",
+        "options": ["Under", "Quick", "Jump", "Book"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is the comparative form of 'good'?",
+        "options": ["Gooder", "Better", "More good", "Best"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "They goes to school.",
+          "They going school.",
+          "They go to school.",
+          "They gone school."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the opposite of 'success'?",
+        "options": ["Win", "Fail", "Try", "Lose"],
+        "correctAnswerIndex": 1
+      }
+    ]
+  }
+  

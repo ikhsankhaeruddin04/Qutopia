@@ -1,0 +1,84 @@
+{
+    "Easy": [
+      {
+        "question": "What is the English word for 'apel'?",
+        "options": ["Apple", "Orange", "Banana", "Grapes"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Choose the correct translation for 'kucing'.",
+        "options": ["Cat", "Dog", "Bird", "Fish"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What color is the sky on a clear day?",
+        "options": ["Blue", "Red", "Green", "Yellow"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which one is a fruit?",
+        "options": ["Carrot", "Potato", "Mango", "Onion"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Translate 'buku' to English.",
+        "options": ["Pen", "Notebook", "Book", "Paper"],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What is the opposite of 'hot'?",
+        "options": ["Cold", "Warm", "Cool", "Boiling"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Choose the correct word: The cat is ____ the table.",
+        "options": ["in", "on", "under", "behind"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which word means 'senang' in English?",
+        "options": ["Sad", "Happy", "Angry", "Tired"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How many legs does a spider have?",
+        "options": ["6", "8", "4", "10"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the English word for 'rumah'?",
+        "options": ["School", "House", "Market", "Hospital"],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Complete the sentence: She ____ going to the market when I saw her.",
+        "options": ["was", "is", "are", "were"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is the synonym of 'intelligent'?",
+        "options": ["Smart", "Funny", "Loud", "Fast"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which word is a verb?",
+        "options": ["Run", "Blue", "Table", "Quick"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What is the plural form of 'child'?",
+        "options": ["Childs", "Children", "Childes", "Childern"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which sentence is in past tense?",
+        "options": ["She eats an apple.", "She will eat an apple.", "She ate an apple.", "She is eating an apple."],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+  

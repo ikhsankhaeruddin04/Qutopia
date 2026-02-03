@@ -1,0 +1,94 @@
+{
+    "Easy": [
+      {
+        "question": "Which one is a body part?",
+        "options": ["Foot", "Shoe", "Pencil", "Plate"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which one is used for cutting?",
+        "options": ["Pen", "Spoon", "Knife", "Plate"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What do you use to write?",
+        "options": ["Book", "Pencil", "Ruler", "Eraser"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which animal says 'meow'?",
+        "options": ["Dog", "Cat", "Cow", "Duck"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "How many days are in a week?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Medium": [
+      {
+        "question": "What is the opposite of 'short'?",
+        "options": ["Tall", "Thin", "Fast", "Big"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which of these is a feeling?",
+        "options": ["Jump", "Happy", "Table", "Run"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which one is a country?",
+        "options": ["Asia", "Tokyo", "Japan", "Pacific"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which one is a past tense verb?",
+        "options": ["Run", "Ran", "Running", "Runs"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the capital of Indonesia?",
+        "options": ["Jakarta", "Bandung", "Surabaya", "Bali"],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is a synonym for 'intelligent'?",
+        "options": ["Smart", "Funny", "Lazy", "Tired"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which sentence is in present continuous tense?",
+        "options": [
+          "She eats breakfast.",
+          "She ate breakfast.",
+          "She is eating breakfast.",
+          "She will eat breakfast."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "options": [
+          "He don't like apples.",
+          "He doesn't likes apple.",
+          "He doesn't like apples.",
+          "He does not liking apples."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the superlative of 'fast'?",
+        "options": ["Faster", "More fast", "Fastest", "The most fast"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which word is an adverb?",
+        "options": ["Quickly", "Quick", "Quicker", "Quickest"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+  

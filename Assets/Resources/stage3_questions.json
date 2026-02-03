@@ -1,0 +1,94 @@
+{
+    "Easy": [
+      {
+        "question": "What is the opposite of 'hot'?",
+        "options": ["Cold", "Warm", "Boil", "Heat"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which one is a fruit?",
+        "options": ["Car", "Banana", "Chair", "Door"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What do you do with a book?",
+        "options": ["Eat", "Sleep", "Read", "Drive"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which animal barks?",
+        "options": ["Cat", "Cow", "Dog", "Sheep"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What color is the sun?",
+        "options": ["Blue", "Yellow", "Green", "Black"],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Medium": [
+      {
+        "question": "Which word is a noun?",
+        "options": ["Run", "Quickly", "Apple", "Blue"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which is used to tell time?",
+        "options": ["Spoon", "Watch", "Book", "Shoe"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Choose the correct plural: 'baby'",
+        "options": ["babys", "babies", "babyes", "babie's"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Which is a question word?",
+        "options": ["When", "Very", "Fast", "Many"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "What do you call a young dog?",
+        "options": ["Kitten", "Calf", "Cub", "Puppy"],
+        "correctAnswerIndex": 3
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Which word is an adjective?",
+        "options": ["Beautiful", "Running", "Sing", "Quickly"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Select the correct sentence.",
+        "options": [
+          "She going to school.",
+          "She go to school.",
+          "She goes to school.",
+          "She going school."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the synonym of 'happy'?",
+        "options": ["Sad", "Glad", "Angry", "Cry"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the past tense of 'fly'?",
+        "options": ["Flyed", "Flied", "Flew", "Flying"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Which sentence is in future tense?",
+        "options": [
+          "I eat breakfast.",
+          "I ate breakfast.",
+          "I am eating breakfast.",
+          "I will eat breakfast."
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  }
+  
